@@ -14,8 +14,8 @@ export const Bracket = () => {
 
     return (
         <div className={styles.wrapper}>
-            <div>
-            <h2>Задание 1</h2>
+            <div className={styles.content}>
+                <h2>Задание 1</h2>
                 <div className={styles.form}>
                     <input 
                         type="text"
