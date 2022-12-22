@@ -1,0 +1,18 @@
+.wrapper {
+    width: 50%;
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    background-color: #f5f5f5;
+
+    .btn {
+        margin-top: 20px;
+        padding: 10px;
+        border: 1px solid rgb(95, 95, 95);
+        cursor: pointer;
+    }
+
+    .list {
+        margin-top: 20px;
+    }
+}

@@ -1,0 +1,26 @@
+.wrapper {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+
+    .inp {
+        padding: 10px;
+        border: 1px solid #ccc;
+        outline: none;
+        margin-top: 20px;
+    }
+
+    .btn {
+        padding: 10px;
+        border: 1px solid #ccc;
+        margin-left: 5px;
+    }
+
+    .count {
+        h5 {
+            padding-top: 20px;
+        }
+    }
+}
+
